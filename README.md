@@ -1,17 +1,26 @@
-**UnZipper is a graphical user interface (GUI) application used to extract ZIP files.**
+# UnZipper
 
-**Features**
-Select a ZIP file to extract: The application allows the user to select a ZIP file from their file system.
-Choose a directory for extraction: The user can specify where to extract the contents of the ZIP file.
-User-friendly interface with a dark theme: The interface is designed using customtkinter to provide a modern, dark-themed look.
-Displays success or error messages: After the extraction process, the application displays a message box indicating whether the extraction was successful or if there was an error.
+UnZipper is a sophisticated graphical user interface (GUI) application designed for seamless extraction of ZIP files.
 
-**Requirements**
-Python 3.x
-tkinter: Usually included with Python.
-customtkinter: Installable via pip.
-**Installation**
-Install Python: Make sure you have Python installed on your system. You can download it from python.org.
+## Features:
+- **File Selection:** Easily select a ZIP file from your file system for extraction.
+- **Destination Selection:** Specify the directory where you want to extract the contents.
+- **Modern Design:** Enjoy a user-friendly interface with a sleek, dark-themed look crafted using customtkinter.
+- **Feedback:** Receive instant feedback messages indicating success or errors after extraction.
 
-Install customtkinter: Install the customtkinter library using pip:
+## Requirements:
+- Python 3.x
+- tkinter (usually included with Python)
+- customtkinter (installable via pip)
 
+## Installation:
+1. **Install Python:**
+   - Make sure Python is installed on your system. Download it from [python.org](https://www.python.org).
+
+2. **Install customtkinter:**
+   - You can install the customtkinter library using pip:
+     ```
+     pip install customtkinter
+     ```
+
+This README format provides a structured and visually appealing presentation of UnZipper's features, requirements, and installation instructions.
